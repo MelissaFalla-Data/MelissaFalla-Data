@@ -109,7 +109,7 @@ while True:
 <h3 align="center">📊 Mis números en GitHub</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MelissaFalla-Data&hide_border=true&background=00000000&ring=7B2FF7&fire=FF3EA5&currStreakLabel=7B2FF7&sideLabels=8b8b9a&dates=8b8b9a&currStreakNum=FF3EA5&sideNums=FF3EA5&stroke=C9B6FF&locale=es" />
+  <img src="https://streak-stats.demolab.com?user=MelissaFalla-Data&hide_border=true&background=00000000&ring=7B2FF7&fire=FF3EA5&currStreakLabel=7B2FF7&sideLabels=8b8b9a&dates=8b8b9a&currStreakNum=FF3EA5&sideNums=FF3EA5&stroke=C9B6FF&hide_total_contributions=true&hide_longest_streak=true&locale=es" />
 </p>
 
 <p align="center">
