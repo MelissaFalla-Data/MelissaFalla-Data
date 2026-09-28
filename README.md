@@ -25,13 +25,12 @@
 
 ### ¡Hola! Soy Meli 👋💜
 
-Soy **analista de datos** y estudiante de último semestre de **Matemáticas Aplicadas** en la Universidad Surcolombiana 🇨🇴.
+Soy **analista de datos** y **matemática** 🇨🇴.
 
 Me encanta la tecnología y convertir datos desordenados en historias claras que ayudan a tomar decisiones. Hoy estoy dando el salto hacia la **ingeniería de datos** ☁️ y me fascina todo lo que tiene que ver con **Machine Learning** y **redes neuronales** 🧠.
 
 - 🔭 Ahora mismo: preparándome para la certificación **AWS Data Engineer**
 - 🌱 Aprendiendo: deep learning y pipelines en la nube
-- 🎓 Me gradúo en **diciembre de 2026**
 - 💬 Hablemos de: datos, automatización, IA… y Minecraft ⛏️
 
 <br clear="right"/>
@@ -61,17 +60,11 @@ Me encanta la tecnología y convertir datos desordenados en historias claras que
 
 ### 🏆 Logros desbloqueados
 
-✅ **Analista de Datos** · CQ Inversiones S.A.S.
-<sub>Reportes, limpieza y análisis para la toma de decisiones 📊</sub>
+✅ 
 
-✅ **Automatización de procesos** · KODA Seguros
-<sub>Chatbot de WhatsApp, cotizador y sistema de alertas automáticas 🤖</sub>
+✅ 
 
-🔄 **AWS Cloud Practitioner → Data Engineer**
-<sub>Construyendo pipelines en la nube ☁️</sub>
-
-🎯 **Matemáticas Aplicadas** · Universidad Surcolombiana
-<sub>Graduación: diciembre 2026 🎓</sub>
+✅ 
 
 <br clear="right"/>
 
@@ -116,16 +109,7 @@ while True:
 <h3 align="center">📊 Mis números en GitHub</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MelissaFalla-Data&show_icons=true&hide_border=true&bg_color=00000000&title_color=7B2FF7&icon_color=FF3EA5&text_color=8b8b9a&ring_color=FFC93C&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaFalla-Data&layout=compact&hide_border=true&bg_color=00000000&title_color=7B2FF7&text_color=8b8b9a&locale=es" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MelissaFalla-Data&hide_border=true&background=00000000&ring=7B2FF7&fire=FF3EA5&currStreakLabel=7B2FF7&sideLabels=8b8b9a&dates=8b8b9a&currStreakNum=FF3EA5&sideNums=FF3EA5&stroke=C9B6FF&locale=es" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MelissaFalla-Data&bg_color=00000000&color=7B2FF7&line=FF3EA5&point=FFC93C&area=true&area_color=C9B6FF&hide_border=true&custom_title=Mi%20actividad%20%F0%9F%92%9C" />
 </p>
 
 <p align="center">
