@@ -1,88 +1,156 @@
-<h1 align="center">¡Hola! Soy Melissa Falla 👋</h1>
-
+<!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Analista+de+Datos+%F0%9F%93%8A;Futura+Ingeniera+de+Datos+%E2%98%81%EF%B8%8F;Machine+Learning+y+Redes+Neuronales+%F0%9F%A7%A0;Matem%C3%A1ticas+Aplicadas+%E2%9C%96%EF%B8%8F" alt="Typing SVG" />
+  <img src="assets/banner.png" width="100%" alt="Melissa Falla" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=34&duration=2800&pause=900&color=7B2FF7&center=true&vCenter=true&width=720&height=60&lines=Data+%E2%80%A2+People+%E2%80%A2+Ideas+%E2%80%A2+Impact+%F0%9F%92%9C;Build+%E2%86%92+Analyze+%E2%86%92+Learn+%E2%86%92+Repeat+%E2%9C%A8;Good+data%2C+brighter+tomorrow+%F0%9F%8C%B8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andry-melissa-falla-marines-989506427/">
+    <img src="https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU-CORREO@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
+  <a href="mailto:fallamelissa.data@gmail.com">
+    <img src="https://img.shields.io/badge/Escr%C3%ADbeme-FF3EA5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MelissaFalla-Data&label=Visitas&color=2F81F7&style=for-the-badge" alt="Visitas"/>
+  <img src="https://img.shields.io/badge/Colombia_%F0%9F%87%A8%F0%9F%87%B4-FFC93C?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MelissaFalla-Data&label=Visitas&color=C9B6FF&style=for-the-badge" />
 </p>
 
 ---
 
-## 🙋‍♀️ Sobre mí
+<!-- ============ HOLA ============ -->
+<img src="assets/laptop.png" width="230" align="right" alt="Melissa programando" />
 
-Soy analista de datos y estudiante de último semestre de **Matemáticas Aplicadas** en la Universidad Surcolombiana 🇨🇴. Me apasiona la tecnología y convertir datos en decisiones: desde limpiar y explorar datasets hasta automatizar procesos y construir modelos que aprenden.
+### ¡Hola! Soy Meli 👋💜
 
-- 📊 Trabajé como **Analista de Datos** en CQ Inversiones S.A.S.
-- 🤖 Hice mis prácticas en **automatización de procesos** en KODA Seguros: chatbot de WhatsApp, cotizador y sistema de alertas
-- ☁️ Me estoy formando en **ingeniería de datos con AWS** (Cloud Practitioner → Data Engineer Associate)
-- 🧠 Me encanta el **Machine Learning** y las **redes neuronales**
-- 🎓 Me gradúo en diciembre de 2026
+Soy **analista de datos** y estudiante de último semestre de **Matemáticas Aplicadas** en la Universidad Surcolombiana 🇨🇴.
 
----
+Me encanta la tecnología y convertir datos desordenados en historias claras que ayudan a tomar decisiones. Hoy estoy dando el salto hacia la **ingeniería de datos** ☁️ y me fascina todo lo que tiene que ver con **Machine Learning** y **redes neuronales** 🧠.
 
-## 🛠️ Tecnologías y herramientas
+- 🔭 Ahora mismo: preparándome para la certificación **AWS Data Engineer**
+- 🌱 Aprendiendo: deep learning y pipelines en la nube
+- 🎓 Me gradúo en **diciembre de 2026**
+- 💬 Hablemos de: datos, automatización, IA… y Minecraft ⛏️
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,sklearn,tensorflow,pytorch,git,github,vscode,docker,linux&perline=6" alt="Tecnologías"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WhatsApp_Bots-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-</p>
-
-| Área | Herramientas |
-|---|---|
-| 📊 Análisis de datos | Python (Pandas, NumPy), SQL, Excel, visualización |
-| ☁️ Ingeniería de datos | AWS, pipelines ETL, bases de datos |
-| 🧠 Machine Learning | scikit-learn, redes neuronales (TensorFlow / PyTorch) |
-| ⚙️ Automatización | Chatbots, alertas automáticas, integración con APIs |
+<br clear="right"/>
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [📈 Análisis exploratorio de datos](https://github.com/MelissaFalla-Data/NOMBRE-REPO) | Scripts de EDA: limpieza, estadística descriptiva y visualización | Python, Pandas, Matplotlib |
-| [🤖 Automatización con chatbot](https://github.com/MelissaFalla-Data/NOMBRE-REPO) | Chatbot de WhatsApp, cotizador y alertas automáticas | Python, APIs |
-| [🧠 Proyecto de Machine Learning](https://github.com/MelissaFalla-Data/NOMBRE-REPO) | Modelo predictivo / red neuronal | scikit-learn, TensorFlow |
-
----
-
-## 📈 Mis estadísticas en GitHub
+<!-- ============ STACK ============ -->
+<h3 align="center">🧰 Mi caja de herramientas</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MelissaFalla-Data&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaFalla-Data&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,git,github,vscode,docker,sklearn,tensorflow,pytorch,linux&theme=light&perline=12" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MelissaFalla-Data&theme=tokyonight&hide_border=true&locale=es" alt="Racha"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-7B2FF7?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FF3EA5?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
-## ⛏️ Fun facts
+<!-- ============ LOGROS ============ -->
+<img src="assets/yay.png" width="220" align="right" alt="¡Yay!" />
 
-- 🟩 Fan de **Minecraft**: si puedo construir un circuito de redstone, puedo construir un pipeline de datos
-- 🧱 Pienso los datos como bloques: se limpian, se ordenan y se construye algo grande con ellos
-- 🤓 Siempre estoy aprendiendo algo nuevo de tecnología
+### 🏆 Logros desbloqueados
+
+✅ **Analista de Datos** · CQ Inversiones S.A.S.
+<sub>Reportes, limpieza y análisis para la toma de decisiones 📊</sub>
+
+✅ **Automatización de procesos** · KODA Seguros
+<sub>Chatbot de WhatsApp, cotizador y sistema de alertas automáticas 🤖</sub>
+
+🔄 **AWS Cloud Practitioner → Data Engineer**
+<sub>Construyendo pipelines en la nube ☁️</sub>
+
+🎯 **Matemáticas Aplicadas** · Universidad Surcolombiana
+<sub>Graduación: diciembre 2026 🎓</sub>
+
+<br clear="right"/>
 
 ---
 
+<!-- ============ PROYECTOS ============ -->
+<img src="assets/omg.png" width="230" align="left" alt="OMG" />
+
+### 💎 OMG, mira lo que construí
+
+> Proyectos donde los datos se vuelven decisiones ✨
+
+- 📈 **[Análisis exploratorio de datos](https://github.com/MelissaFalla-Data/NOMBRE-REPO)** — limpieza, estadística y visualización con Python
+- 🤖 **[Automatización con chatbot](https://github.com/MelissaFalla-Data/NOMBRE-REPO)** — chatbot, cotizador y alertas automáticas
+- 🧠 **[Machine Learning](https://github.com/MelissaFalla-Data/NOMBRE-REPO)** — modelo predictivo con redes neuronales
+
+<br clear="left"/>
+
+---
+
+<!-- ============ FILOSOFÍA ============ -->
+<img src="assets/pensando.png" width="190" align="right" alt="Pensando" />
+
+### 🤔 Mi filosofía, en código
+
+```python
+def create_impact():
+    return "data"  # 💜
+
+while True:
+    learn()
+    build()
+    improve()
+    # make an impact ✨
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ============ STATS ============ -->
+<h3 align="center">📊 Mis números en GitHub</h3>
+
 <p align="center">
-  <i>"Los datos cuentan historias; mi trabajo es escucharlas."</i> ✨
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MelissaFalla-Data&show_icons=true&hide_border=true&bg_color=00000000&title_color=7B2FF7&icon_color=FF3EA5&text_color=8b8b9a&ring_color=FFC93C&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaFalla-Data&layout=compact&hide_border=true&bg_color=00000000&title_color=7B2FF7&text_color=8b8b9a&locale=es" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MelissaFalla-Data&hide_border=true&background=00000000&ring=7B2FF7&fire=FF3EA5&currStreakLabel=7B2FF7&sideLabels=8b8b9a&dates=8b8b9a&currStreakNum=FF3EA5&sideNums=FF3EA5&stroke=C9B6FF&locale=es" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MelissaFalla-Data&bg_color=00000000&color=7B2FF7&line=FF3EA5&point=FFC93C&area=true&area_color=C9B6FF&hide_border=true&custom_title=Mi%20actividad%20%F0%9F%92%9C" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelissaFalla-Data/MelissaFalla-Data/output/github-snake-dark.svg" />
+    <img alt="serpiente de contribuciones" src="https://raw.githubusercontent.com/MelissaFalla-Data/MelissaFalla-Data/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<!-- ============ FUN FACTS ============ -->
+<h3 align="center">🌸 Fun facts</h3>
+
+<p align="center">
+⛏️ Si puedo construir un circuito de redstone en Minecraft, puedo construir un pipeline de datos<br>
+🧱 Para mí los datos son bloques: se limpian, se ordenan y se construye algo grande con ellos<br>
+💡 Siempre hay algo nuevo por aprender
+</p>
+
+<!-- ============ FOOTER ============ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:C9B6FF,50:FF9ED2,100:FFE08A" />
+</p>
+
+<p align="center">
+  <i>Hecho con 💜, datos y mucho café ☕</i>
 </p>
